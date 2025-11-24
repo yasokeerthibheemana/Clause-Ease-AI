@@ -1,0 +1,2 @@
+# Clause-Ease-AI
+Clause Ease AI is an intelligent document-analysis platform designed to simplify and automate legal contract review. It uses NLP and machine learning to extract key clauses, identify risks, summarize long agreements, and provide structured insights in seconds—reducing manual effort and improving decision-making. The system supports multiple document formats, ensures data privacy, and delivers accurate, user-friendly results for lawyers, businesses, and compliance teams.
