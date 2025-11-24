@@ -1,0 +1,12 @@
+streamlit>=1.25
+tensorflow>=2.10
+numpy>=1.23
+pillow>=10.0
+transformers>=4.30.0
+datasets>=2.12.0
+torch>=1.13.0   # or the appropriate torch version for your environment (CPU-only or CUDA)
+flask>=2.3.0
+textstat>=0.7.1
+spacy>=3.5.3
+PyMuPDF>=1.22.0
+nltk>=3.8.1
